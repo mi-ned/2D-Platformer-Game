@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0107a55ebb926b541b963b5664e4ec5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathFX: {fileID: 1332880166395328339, guid: 6be0176f6ae3bfd4a90640c1a48ab9cf,
+      type: 3}
+  - playerHurt: {instanceID: 0}
+  - theGameManager: {instanceID: 0}
+  - healthSlider: {instanceID: 0}
+  - damageScreen: {instanceID: 0}
+  - playerDeathSound: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - winGameScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

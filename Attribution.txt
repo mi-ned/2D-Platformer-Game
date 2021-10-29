@@ -1,0 +1,109 @@
+Videos Referenced
+Xlaugts: Unity 2D Collecting Coins Tutorial - https://www.youtube.com/watch?v=DZ-3g31jk90
+Brackeys: How to make a BOSS in Unity! - https://www.youtube.com/watch?v=AD4JIXQDw0s
+Alexander Zotov: How To Make Falling Obstacles Trigger Zone In Unity Game? Simple 2D Tutorial - https://www.youtube.com/watch?v=Me6G20rBXvQ
+Blackthornprod: CHANGING GRAVITY PLAYER CONTROLLER - EASY UNITY TUTORIAL - https://www.youtube.com/watch?v=hX70SNM_XWI
+Alexander Zotov: Unity 2D Tutorial How To Create Falling Platforms for Simple Platformer Game - https://www.youtube.com/watch?v=ovsCoNLP05w
+CasanisPlays: Game Design - Making your First 2D Side Scroller Unity playlist - https://www.youtube.com/playlist?list=PL2cNFQAw_ndyKRiobQ2WqVBBBSbAYBobf (individual videos are referenced in seperate C# codes)
+
+Websites used
+The right way to pause a game in Unity - https://gamedevbeginner.com/the-right-way-to-pause-the-game-in-unity/
+
+Audio
+Coin - https://freesound.org/people/Free-Rush/sounds/400113/
+Boss Switch - https://freesound.org/people/EricsSoundschmiede/sounds/457410/
+Boss Grunt - https://freesound.org/people/Topschool/sounds/443488/
+Boss Death - https://freesound.org/people/dersuperanton/sounds/434479/
+Marble Rolling - https://freesound.org/people/InspectorJ/sounds/429104/
+Whoosh - https://freesound.org/people/anagar/sounds/267950/
+Ow - https://freesound.org/people/balloonhead/sounds/362335/
+Super Coin - https://freesound.org/people/PhilSavlem/sounds/338260/
+Rocky Hurt - https://freesound.org/people/sharesynth/sounds/341252/
+Squash - https://freesound.org/people/Natty23/sounds/349202/
+Trunky Hurt - https://freesound.org/people/Loyalty_Freak_Music/sounds/407483/
+Chapter1BGM - https://freesound.org/people/4barrelcarb/sounds/365361/
+gameWin - https://freesound.org/people/rhodesmas/sounds/320672/
+Ruby - https://freesound.org/people/Mr._Fritz_/sounds/545238/
+Boss Music - https://freesound.org/people/staticpony1/sounds/267628/
+Game Victory - https://freesound.org/people/humanoide9000/sounds/466133/
+chapter2BGM - https://freesound.org/people/Victornatas/sounds/545221/
+snowball - https://freesound.org/people/magnuswaker/sounds/523091/
+playerGun - https://freesound.org/people/aleksnascimento/sounds/161195/
+
+Sprites
+Attack (64x32) - see Pixel Adventure 2 folder
+backgroundOne - original (made with MS Paint)
+backgroundTwo - original (made with MS Paint)
+backgroundThree - original (made with MS Paint)
+bloodScreen - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+body - see Boss Sprite folder
+boulder - original (made with GNU Image Manipulation Program)
+bullet - see Pixel Adventure 2 folder
+circle - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+cloud - original (made with GNU Image Manipulation Program - based on https://i.pinimg.com/originals/60/a8/2c/60a82c6cf7fda046b291e6b2c78ea531.png)
+hat-helmet - see Boss Sprite folder
+head - see Boss Sprite folder
+heart - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+Hit (64x32) - see Pixel Adventure 2 Folder (unused)
+hotDog - original (made with GNU Image Manupilation Program)
+ice - original (made with MS paint)
+iceCannon - original (made with GNU Image Manipulation Program)
+Idle (64x32) - see Pixel Adventure 2 Folder
+JoeBullet - original (made with GNU Image Manipulation Program)
+Key - https://www.freelancer.com/contest/Need-a-Key-sprite-313110-byentry-7439853?w=f&ngsw-bypass= (used https://www.remove.bg/ to remove background)
+leaf - original (made with GNU Image Manipulation Program) - based on https://i.pinimg.com/originals/c5/6d/dd/c56ddde762380757619f1e090b63b7aa.jpg
+leg-  see Boss Sprite Folder
+longGround - original (made with MS Paint)
+longPlatformET - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+longPlatformGround - original (made with MS Paint)
+longPlatformIce - original (made with MS Paint)
+longPlatformRock - original (made with MS Paint)
+midGround_1 - original (made with MS Paint and GNU Image Manipulation Program)
+midGround_2 - original (made with GNU Image Manipulation Program and MS Paint)
+midGround_Two - original (made with GNU Image Manipulation Program) based on https://www.google.com/search?q=icy+mountains&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiI3c3xkK7tAhXHTcAKHW7wBWAQ_AUoAXoECBsQAw&biw=771&bih=734#imgrc=TnhUkm9ecHQEwM
+part_explosion - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+Rock1_Idle - see Pixel Adventure 2
+Rock1_Run - see Pixel Adventure 2
+rocket - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites (unused)
+ruby - original (made with GNU Image Manipulation Program)
+Run - see Pixel Adventure 2 (unused)
+shortGroundET - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+shortGroundSand - original (made with MS Paint)
+shortPlatformGround - original (made with MS Paint)
+shortPlatformIce - original (made with MS Paint)
+shortPlatformRock - original (made with MS Paint)
+simpleCreatureSpriteSheet - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+smokeSprite - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+spore - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites (unused)
+star1Red - https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+startSnowman - original (made with GNU Image Manipulation Program) based on https://i.pinimg.com/originals/92/41/55/92415572165e0ae71c212505e8918201.jpg
+startTree - original (made with GNU Image Manipulation Program) based on https://data2.polantis.com/image1000/data/562/26256/Cutout%20Palm%20Tree%2011_3D_p.png
+USD_6x4 - see Animated 2D Coins
+Weapon-sword - see Boss Sprite
+wood - made with Adobe Photoshop - based on https://www.dropbox.com/s/jxhl4hzac20dl1i/Sprites.rar?dl=0&file_subpath=%2FSprites
+
+Externals
+Wolf
+2D Free Platformer Char
+By: Jurgen Alexon
+link: https://assetstore.unity.com/packages/2d/characters/2d-free-platformer-char-148631
+License: Extension Asset
+Support Site: https://jurgenalexon.artstation.com/
+
+Coins
+Animated 2D Coins
+By: Allasstar
+link: https://assetstore.unity.com/packages/2d/environments/animated-2d-coins-22097
+License: Extension Asset
+Support Site: allasstar.besaba.com
+
+Boss Sprite
+Low_Swordman
+https://github.com/Brackeys/Boss-Battle
+
+Trunky and Rocky sprites
+Pixel Adventure 2
+By: Pixel Frog
+link: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+License: Extension Asset
+Support Site: https://pixelfrog-store.itch.io/

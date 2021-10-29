@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1f6fec03c6d609a42b5222f99a129bdb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bossDeathFX: {fileID: 1332880166395328339, guid: 6be0176f6ae3bfd4a90640c1a48ab9cf,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
